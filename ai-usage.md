@@ -1,0 +1,2 @@
+# How I used AI in this assignment
+I did not originally intend to, but I ran into several issues with getting the GitHub Actions to work so I threw it into ChatGPT asking it why it wasn't working and it gave me a line of code that I needed to change that ended up working.
